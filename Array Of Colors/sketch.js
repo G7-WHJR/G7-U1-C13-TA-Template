@@ -1,9 +1,7 @@
 
 function setup() {
-  //size of the canvas to draw on
   createCanvas(innerWidth, innerHeight);
 
-  // Set the background to white, and move the line to setup();
   background("white");
   
   header();
@@ -11,7 +9,6 @@ function setup() {
 
 
 function draw() {
-  //Create new object for colorBoxes
     
 }
 
